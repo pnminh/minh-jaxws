@@ -5,6 +5,8 @@
 .metadata/
 .recommenders/
 RemoteSystemsTempFiles/
+.factorypath
+.tern-project
 # Intellij
 .idea/
 *.iml
